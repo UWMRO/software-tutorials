@@ -13,7 +13,10 @@ If you are working on the AUEG software project and run into errors, we would re
 - [Flask Server Issues](https://github.com/UWMRO/Instruments/issues/65)
 - [Andor Pybind11 Issues](https://github.com/UWMRO/Instruments/issues/64)
 
-
+# Getting Started
+1. Navigate to the [UWMRO/Instruments wiki](https://github.com/UWMRO/Instruments/wiki) if you are unsure how to start.
+2. Clone the repository somewhere nice: `git clone https://github.com/UWMRO/software-tutorials`
+3. Follow the tutorials and enjoy!
 
 # Scope and Philosophy
 This tutorial series will not cover the basics of python. Instead, we will cover the basics of the libraries and tools listed above. The format of this tutorial series will focus on examples that are relevant to developing software on the project. We hope that learning by doing will help new project members get to contributing in a relatively short amount of time. Of course, feedback is welcome!
