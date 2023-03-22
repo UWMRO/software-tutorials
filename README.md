@@ -19,4 +19,4 @@ If you are working on the AUEG software project and run into errors, we would re
 3. Follow the tutorials and enjoy!
 
 # Scope and Philosophy
-This tutorial series will not cover the basics of python. Instead, we will cover the basics of the libraries and tools listed above. The format of this tutorial series will focus on examples that are relevant to developing software on the project. We hope that learning by doing will help new project members get to contributing in a relatively short amount of time. Of course, feedback is welcome!
+This tutorial series will not cover the basics of python nor JS. Instead, we will cover the basics of the libraries and tools listed above. The format of this tutorial series will focus on examples that are relevant to developing software on the project. We hope that learning by doing will help new project members get to contributing in a relatively short amount of time. Of course, feedback is welcome!
